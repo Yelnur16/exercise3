@@ -1,0 +1,80 @@
+#grades-heading {
+  text-align: center;
+  color: #262a26;
+  margin-bottom: 20px;
+}
+
+table {
+  width: 80%;
+  margin: 0 auto;
+  border-collapse: collapse;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+th {
+  background-color: #4e7450;
+  color: white;
+  padding: 12px;
+}
+
+td {
+  padding: 10px;
+  border: 1px solid #354234;
+}
+
+tr:nth-child(even) {
+  background-color: #a9b4a9;
+}
+
+#form-heading{
+     text-align: center;
+  color: #262a26;
+  margin-bottom: 20px;
+
+}
+.feedback-form{
+    width: 400px;
+      margin: 20px auto 40px;
+      background: #f4f4f4;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    }
+     .feedback-form label{
+        font-weight: bold;
+     }
+     .feedback-form input,
+     .feedback-form select,
+     .feedback-form textarea{
+        width: 100%;
+        padding: 10px;
+         margin: 5px 5px 5px 5px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      box-sizing: border-box;
+     }
+     .feedback-form button{
+        width: 100%;
+        padding: 10px;
+      background: #4e7450;
+      color: white;
+     border: none;
+      border-radius: 9px;
+      font-size: 16px;
+      cursor: pointer;
+     }
+
+     .footer{
+         background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 3px;
+     }
+     
+
+
+     
+
+
+
